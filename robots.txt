@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.www.rigsofrods.com/superjp.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/gilajp.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/pakong86.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/viral88.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/clan4d.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/elang212.html/sitemap.xml
+Sitemap: https://ftp.www.rigsofrods.com/viral4d.html/sitemap.xml
